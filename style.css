@@ -1,0 +1,31 @@
+.vvv {
+    margin: 1% 2%;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.menu-dropdown {
+    margin: 10px;
+    max-width: 3%;
+}
+
+.menu-dropdown img {
+    max-width: 100%;
+}
+
+.logo {
+    background-color: green;
+    align-content: center;
+
+}
+
+.user-menu {
+    background-color: blue;
+    margin: 10px;
+
+}
